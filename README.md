@@ -10,4 +10,4 @@ During the training
 All transgressions are recorded and reported to ICICI.
 
 All slides, exercises, and course material will be kept in this repository during the training. 
-This repository will be deleted 24 hours after the training is over.
+This repository will be deleted 2 days after the training is over.
